@@ -21,7 +21,7 @@ I'm a passionate web developer specializing in backend development.
 
 ### Backend Projects
 
-- Social Media Application API [![API](https://img.shields.io/badge/Social_Media_API-Project-blue?style=for-the-badge)](https://github.com/yourusername/SocialMediaAPI)
+- Social Media Application API [![API](https://img.shields.io/badge/Social_Media_API-Project-blue?style=for-the-badge)](https://github.com/suranjit231/SocialMedia-Api-nodeJs-Mongodb.git)
 - News Portal Website | Backend [![Backend](https://img.shields.io/badge/News_Portal_Backend-Project-red?style=for-the-badge)](https://github.com/yourusername/NewsPortalBackend)
 - Easily Job Portal Clone [![Clone](https://img.shields.io/badge/Job_Portal_Clone-Project-green?style=for-the-badge)](https://github.com/yourusername/JobPortalClone)
 
