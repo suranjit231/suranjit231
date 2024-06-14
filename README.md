@@ -1,8 +1,25 @@
 ### Hi there, I'm Suranjit! 👋
 
-I'm a passionate web developer specializing in backend development.
+I'm an aspiring web developer specialized in backend using Node.js, Express, and MongoDB. I'm proficient in creating robust backend systems and currently expanding my skills to full-stack development
 
 🌱 I’m currently learning full-stack development.
+
+### What I Can Do
+
+**Backend Development:**
+- Strong knowledge of Node.js, Express.js, and REST APIs.
+- Experienced with NoSQL databases, particularly MongoDB.
+- Familiar with JWT authentication and OAuth.
+- Skilled in socket programming for real-time communication.
+- Basic understanding of AWS services for deployment.
+- Proficient in unit testing using Jest.
+
+**Integration:**
+- Integrate third-party APIs.
+- Integrate OpenAI in Node.js applications to enhance functionality.
+
+  **Frontend Development:**
+- Proficient in HTML, CSS, JavaScript, and Bootstrap.
 
 ### Skills
 
