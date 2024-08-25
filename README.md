@@ -18,7 +18,7 @@ I'm an aspiring full-stack developer specializing in Node.js, Express, and Mongo
 - Integrate third-party APIs.
 - Integrate OpenAI in Node.js applications to enhance functionality.
 
-  **Frontend Development:**
+**Frontend Development:**
 - Proficient in HTML, CSS, JavaScript, Bootstrap, React and Redux.
 - Experience in managing state using Redux and building responsive UIs with React.
 
