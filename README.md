@@ -19,7 +19,8 @@ I'm an aspiring web developer specialized in backend using Node.js, Express, and
 - Integrate OpenAI in Node.js applications to enhance functionality.
 
   **Frontend Development:**
-- Proficient in HTML, CSS, JavaScript, and Bootstrap.
+- Proficient in HTML, CSS, JavaScript, Bootstrap, React and Redux.
+- Experience in managing state using Redux and building responsive UIs with React.
 
 ### Skills
 
@@ -35,6 +36,9 @@ I'm an aspiring web developer specialized in backend using Node.js, Express, and
 [![REST API](https://img.shields.io/badge/REST_API-lightgrey?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
 [![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![OAuth](https://img.shields.io/badge/OAuth-blue?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
+[![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+
 
 ### Backend Projects
 
