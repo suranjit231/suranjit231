@@ -1,6 +1,6 @@
 ### Hi there, I'm Suranjit! 👋
 
-I'm an aspiring web developer specialized in backend using Node.js, Express, and MongoDB. I'm proficient in creating robust backend systems and currently expanding my skills to full-stack development
+I'm an aspiring full-stack developer specializing in Node.js, Express, and MongoDB. I'm proficient in creating robust backend systems and equally skilled in frontend technologies like React and Redux, continuously expanding my expertise in full-stack development.
 
 🌱 I’m currently learning full-stack development.
 
